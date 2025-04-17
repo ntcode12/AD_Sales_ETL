@@ -1,5 +1,6 @@
+isort==6.0.1
+setuptools==78.1.0
+wheel==0.45.1
 pandas
-kagglehub[pandas-datasets]
-google-cloud-bigquery
-google-cloud-storage
-pyarrow
+numpy
+google.cloud 
