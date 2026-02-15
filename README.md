@@ -1,6 +1,6 @@
-# Advertising ETL & Dashboard Project
+# Advertising ETL Project
 
-This project demonstrates how to build an end-to-end ETL pipeline using Google Cloud and Looker Studio. The goal is to ingest, process, and visualize advertising data from Kaggle.
+This project demonstrates how to build an end-to-end ETL pipeline using Google Cloud and Looker Studio. The goal is to ingest and process advertising data from Kaggle.
 
 ## Project Structure
 
